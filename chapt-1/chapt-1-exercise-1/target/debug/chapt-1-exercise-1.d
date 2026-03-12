@@ -1,1 +1,0 @@
-/home/inwerejosic/works/rust_works/comprehensive_rust/chapt-1/chapt-1-exercise-1/target/debug/chapt-1-exercise-1: /home/inwerejosic/works/rust_works/comprehensive_rust/chapt-1/chapt-1-exercise-1/src/main.rs
