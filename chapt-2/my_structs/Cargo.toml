@@ -1,0 +1,9 @@
+[package]
+name = "my_structs"
+authors = ["Inwerejosic", "et al"]
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+uuid = {version = "1.23.4", features = ["v4"]}
+
